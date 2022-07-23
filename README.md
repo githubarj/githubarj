@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @githubarj
+- 👋 Hi, I’m Jeremy Richard
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning solidity and javascript
 - 💞️ I’m looking to collaborate on any new and innovative ideas 
