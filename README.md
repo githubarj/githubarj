@@ -1,4 +1,5 @@
-![Header](./github-header-image.png )
+<h1 align="center">Hi 👋, I'm Richard Jeremy Githuba</h1>
+<h3 align="center">A passionate full stack web and Blockchain Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubarj&label=Profile%20views&color=541e71&style=flat-square" alt="githubarj" /> </p>
 
@@ -22,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubarj&show_icons=true&locale=en&layout=compact" alt="githubarj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githubarj&show_icons=true&theme=onedark&locale=en" alt="githubarj" /></p>
+
