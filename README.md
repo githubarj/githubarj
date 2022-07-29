@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richard Jeremy Githuba</h1>
+<h1 align="center">Hi 👋, I'm Richard Jeremy Githuba</h1> 
 <h3 align="center">A passionate Full Stack Web and Blockchain Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubarj&label=Profile%20views&color=541e71&style=flat-square" alt="githubarj" /> </p>
