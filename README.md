@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubarj&label=Profile%20views&color=541e71&style=flat-square" alt="githubarj" /> </p>
 
-- 🔭 I’m currently working on **a decentralized music sharing application**
+- 🔭 I’m currently working on **univeristy studies**
 
 - 🌱 I’m currently learning **typescript and solidity**
 
