@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubarj&label=Profile%20views&color=541e71&style=flat-square" alt="githubarj" /> </p>
 
-- 🔭 I’m currently working on **univeristy studies**
+- 🔭 I’m currently working on **innovative projacts**
 
-- 🌱 I’m currently learning **typescript and solidity**
+- 🌱 I’m currently learning **c and solidity**
 
 - 👯 I’m looking to collaborate on **any web development or web 3 ideas**
 
