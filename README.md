@@ -1,3 +1,5 @@
+![header](streetheader.jpg)
+
 <h1 align="center">Hi 👋, I'm Richard Jeremy Githuba</h1>
 <h3 align="center">A passionate Full Stack Software and Blockchain Developer </h3>
 
