@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubarj&show_icons=true&theme=onedark&hide_border=true&locale=en&layout=compact" alt="githubarj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githubarj&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="githubarj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githubarj&show_icons=true&theme=onedark&hide_rank=true&hide_border=true&locale=en" alt="githubarj" /></p>
