@@ -2,6 +2,9 @@
 
 <h2 align="center">Hi 👋, I'm Richard Jeremy Githuba</h2>
 <p align="center">A computer science student from Nairobi </p>
+<p align="center"> <a href="https://githubarj.live" target="blank" > Portfolio </a> </p>
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=githubarj&label=Profile%20views&color=541e71&style=for-the-badge" alt="githubarj" /> </p>
 
