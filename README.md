@@ -2,7 +2,9 @@
 
 <h2 align="center">Hi 👋, I'm Richard Jeremy Githuba</h2>
 <p align="center">A computer science student from Nairobi </p>
- [Portfolio](www.githubarj.netifly.app)
+<p align="center"><a href="www.githubarj.netifly.app" target="blank" >Portfolio</a> </p>
+
+
 
 
 
