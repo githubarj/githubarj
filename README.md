@@ -1,7 +1,7 @@
 ![header](streetheader.jpg)
 
 <h2 align="center">Hi 👋, I'm Richard Jeremy Githuba</h2>
-<p align="center">A computer science student from Nairobi, Kenya </p>
+<p align="center">A software developer from Nairobi, Kenya </p>
 <p align="center"><a href="https://githubarj.tech/" target="blank" >Portfolio</a> </p>
 
 
