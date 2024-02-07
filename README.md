@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm Richard Jeremy Githuba</h2>
 <p align="center">A Front End Software developer from Nairobi, Kenya </p>
-<p align="center"><a href="https://githubarj.tech/" target="blank" >Portfolio</a> </p>
+<p align="center"><a href="https://githuba.netlify.app/" target="blank" >Portfolio</a> </p>
 
 
 
