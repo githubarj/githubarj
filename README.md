@@ -1,15 +1,11 @@
 ![header](streetheader.jpg)
 
 <h2 align="center">Hi 👋, I'm Jeremy Richard Githuba</h2>
-<p align="center">A developer from Nairobi, Kenya </p>
+<p align="center">Software  Developer </p>
 <p align="center"><a href="https://githuba.netlify.app/" target="blank" >Portfolio</a> </p>
 
 
 
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=githubarj&label=Profile%20views&color=541e71&style=for-the-badge" alt="githubarj" /> </p>
 
 
 <p align="center">
